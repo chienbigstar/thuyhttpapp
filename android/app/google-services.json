@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "363822876271",
+    "firebase_url": "https://radiobook-d3e13.firebaseio.com",
+    "project_id": "radiobook-d3e13",
+    "storage_bucket": "radiobook-d3e13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363822876271:android:c56824dbde1d11571fef9a",
+        "android_client_info": {
+          "package_name": "lvc.app.truyenfull_audio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363822876271-4ci0pd5v5qqn44qetg7204u4tmfrlhvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-KI4AKzKU8JAnVCu7JC3gt_syjbJ2Oww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363822876271-4ci0pd5v5qqn44qetg7204u4tmfrlhvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
